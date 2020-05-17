@@ -1,5 +1,5 @@
 version: "3"
 services:
   compose:
-    image: kmjayadeep/docker-compose
+    image: kmjayadeep/docker-compose:1.0.0
     build: .
